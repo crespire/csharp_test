@@ -1,0 +1,15 @@
+/home/crespire/repos/projects/csharp_test/bin/Debug/net6.0/csharp_test
+/home/crespire/repos/projects/csharp_test/bin/Debug/net6.0/csharp_test.deps.json
+/home/crespire/repos/projects/csharp_test/bin/Debug/net6.0/csharp_test.runtimeconfig.json
+/home/crespire/repos/projects/csharp_test/bin/Debug/net6.0/csharp_test.dll
+/home/crespire/repos/projects/csharp_test/bin/Debug/net6.0/csharp_test.pdb
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/csharp_test.csproj.AssemblyReference.cache
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/csharp_test.GeneratedMSBuildEditorConfig.editorconfig
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/csharp_test.AssemblyInfoInputs.cache
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/csharp_test.AssemblyInfo.cs
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/csharp_test.csproj.CoreCompileInputs.cache
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/csharp_test.dll
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/ref/csharp_test.dll
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/csharp_test.pdb
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/csharp_test.genruntimeconfig.cache
+/home/crespire/repos/projects/csharp_test/obj/Debug/net6.0/refint/csharp_test.dll
